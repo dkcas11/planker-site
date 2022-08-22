@@ -49,7 +49,7 @@ features                                  :
 
   - title                                 : Always look sharp
     description                           : Catch the local forecast and never miss the right outfit to look fly as you speed down the mountain.
-    fontawesome_icon_name                 : sun-o
+    fontawesome_icon_name                 : cloud
 
   - title                                 : Traverse the mountain in a snap
     description                           : Get from A to B the fastest way possible with interactive turn-by-turn navigation on the mountain.
