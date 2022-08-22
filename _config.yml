@@ -41,19 +41,19 @@ features                                  :
     
   - title                                 : All the resort info
     description                           : Stay on track with the latest resort info. Catch the last lift and avoid the closed slopes.
-    fontawesome_icon_name                 : circle-info
+    fontawesome_icon_name                 : info
 
   - title                                 : Explore the best slopes
     description                           : Dig into the fine details of slopes and catch the fan favorites, check the difficulties, length and favorite the best slopes.
-    fontawesome_icon_name                 : magnifying-glass-location
+    fontawesome_icon_name                 : map-signs
 
   - title                                 : Always look sharp
     description                           : Catch the local forecast and never miss the right outfit to look fly as you speed down the mountain.
-    fontawesome_icon_name                 : sunglasses
+    fontawesome_icon_name                 : sun-o
 
   - title                                 : Traverse the mountain in a snap
     description                           : Get from A to B the fastest way possible with interactive turn-by-turn navigation on the mountain.
-    fontawesome_icon_name                 : circle-location-arrow
+    fontawesome_icon_name                 : location-arrow
     
   - title                                 : # New Feature Title
     description                           : # New Feature Description
